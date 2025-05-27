@@ -1,0 +1,6 @@
+site_name: wgoers.github.io
+site_url: https://wgoers.github.io/
+theme:
+  name: material
+  palette:
+    primary: blue grey
